@@ -1,0 +1,2 @@
+rootProject.name='MoGuard'
+include ':app'

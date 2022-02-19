@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ec168a6-b1a1-4059-bd21-017de28a2f83" name="Default Changelist" comment="encyption">
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/androidTest/java/com/example/helloworld/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/app/src/test/java/com/example/helloworld/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/androidTest/java/com/example/myapp/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/java/com/example/myapp/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/app/src/test/java/com/example/myapp/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApp/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/Controller/ILoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/Controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/Model/IUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/Model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/View/ILOGINview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules (2).xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace (2).xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/appicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/apple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/insta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/mail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foregroundd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foregroundd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foregroundd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foregroundd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foregroundd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Roaming/npm/node_modules/@angular/cli/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Roaming/npm/node_modules/@angular/cli/node_modules/encoding/node_modules/iconv-lite/.idea/iconv-lite.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Roaming/npm/node_modules/cordova/node_modules/encoding/node_modules/iconv-lite/.idea/iconv-lite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/suryaviyyapu/SecureBox/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/Mypass/MoGuard/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/About.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/About.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/Authorize.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/Authorize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/ChangePassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/ChangePassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/Help.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/MLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/MLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/Modify.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/Modify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/Splash.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/Splash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/Utils/AESUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/Utils/AESUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/Welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/adapters/RecyclerViewAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/viewadapter/RecyclerViewAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/managers/PrefManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/managers/PrefManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/models/ViyCred.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/models/ViyCred.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/repos/CredsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/repos/CredsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/room/ViyCredDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/room/ViyCredDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/room/ViyCredDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/room/ViyCredDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/ui/home/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/ui/home/HomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/ui/home/HomeViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/ui/home/HomeViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/ui/password/PasswordFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/ui/password/PasswordFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/ui/password/PasswordViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/ui/password/PasswordViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/ui/social/SocialFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/ui/social/SocialFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/ui/social/SocialViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/ui/social/SocialViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/ui/wifi/WifiFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/ui/wifi/WifiFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/ui/wifi/WifiViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/ui/wifi/WifiViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/suryaviyyapu/SecureBox/wifi.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Mypass/MoGuard/wifi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/paypal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/skype.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/snapchat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/tumblr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/yahoo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_help.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_help.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_modify.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_modify.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_items.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_items.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/settings_activity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/settings_activity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/welcome_slide1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/welcome_slide1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/welcome_slide3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/welcome_slide3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/welcome_slide4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/wifi_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/wifi_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/activity_home_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_home_drawer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/suryaviyyapu/SecureBox/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/Mypass/MoGuard/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/caches/project_resources/project_lru_list.txt" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/caches/project_resources/project_lru_list.txt" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/caches/project_resources/securebox.cc167975/main_423d8.dat" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/caches/project_resources/securebox.cc167975/main_423d8.dat" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/bytecodeanalysis/bytecodeAnalysis.storage.keystream" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/bytecodeanalysis/bytecodeAnalysis.storage.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/bytecodeanalysis/bytecodeAnalysis.storage.keystream.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/bytecodeanalysis/bytecodeAnalysis.storage.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/bytecodeanalysis/bytecodeAnalysis.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/bytecodeanalysis/bytecodeAnalysis.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/bytecodeanalysis/bytecodeAnalysis.storage_i" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/bytecodeanalysis/bytecodeAnalysis.storage_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/bytecodeanalysis/fileIdToHashId_i" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/bytecodeanalysis/fileIdToHashId_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex.storage.keystream" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex.storage.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex.storage.keystream.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex.storage.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex.storage_i" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex.storage_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex_inputs.values" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex_inputs.values" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex_inputs.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex_inputs.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex_inputs.values.s" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/domfileindex/DomFileIndex_inputs.values.s" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenameindex/FilenameIndex.project.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenameindex/FilenameIndex.project.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenameindex/FilenameIndex.storage.keystream.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenameindex/FilenameIndex.storage.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenameindex/FilenameIndex.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenameindex/FilenameIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenameindex/FilenameIndex.storage_i.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenameindex/FilenameIndex.storage_i.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenameindex/FilenameIndex_inputs.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenameindex/FilenameIndex_inputs.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenameindex/FilenameIndex_inputs_i.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenameindex/FilenameIndex_inputs_i.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex.storage.keystream.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex.storage.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex.storage_i.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex.storage_i.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex_inputs.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex_inputs.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex_inputs_i.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex_inputs_i.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filetypes/filetypes.storage.values" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filetypes/filetypes.storage.values" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filetypes/filetypes.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filetypes/filetypes.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filetypes/filetypes.storage.values.s" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filetypes/filetypes.storage.values.s" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filetypes/filetypes_inputs.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filetypes/filetypes_inputs.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filetypes/filetypes_inputs_i.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/filetypes/filetypes_inputs_i.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/html5.custom.attributes.index/html5.custom.attributes.index.storage.keystream" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/html5.custom.attributes.index/html5.custom.attributes.index.storage.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/html5.custom.attributes.index/html5.custom.attributes.index.storage.keystream.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/html5.custom.attributes.index/html5.custom.attributes.index.storage.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/html5.custom.attributes.index/html5.custom.attributes.index.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/html5.custom.attributes.index/html5.custom.attributes.index.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/html5.custom.attributes.index/html5.custom.attributes.index.storage_i" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/html5.custom.attributes.index/html5.custom.attributes.index.storage_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/html5.custom.attributes.index/html5.custom.attributes.index_inputs.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/html5.custom.attributes.index/html5.custom.attributes.index_inputs.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/html5.custom.attributes.index/html5.custom.attributes.index_inputs_i" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/html5.custom.attributes.index/html5.custom.attributes.index_inputs_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/IdIndex.storage.values" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/IdIndex.storage.values" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/IdIndex.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/IdIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/IdIndex.storage.values.s" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/IdIndex.storage.values.s" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/IdIndex.storage_i" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/IdIndex.storage_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/compositeHashId.keystream.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/compositeHashId.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/compositeHashId_i.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/compositeHashId_i.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/fileIdToHashId_i.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/idindex/fileIdToHashId_i.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/java.binary.plus.expression/fileIdToHashId_i" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/java.binary.plus.expression/fileIdToHashId_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/java.binary.plus.expression/java.binary.plus.expression.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/java.binary.plus.expression/java.binary.plus.expression.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/java.binary.plus.expression/java.binary.plus.expression.storage_i" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/java.binary.plus.expression/java.binary.plus.expression.storage_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/java.null.method.argument/fileIdToHashId_i" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/java.null.method.argument/fileIdToHashId_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/java.null.method.argument/java.null.method.argument.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/java.null.method.argument/java.null.method.argument.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/json.file.root.values/json.file.root.values.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/json.file.root.values/json.file.root.values.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/json.file.root.values/json.file.root.values_inputs.values.s" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/json.file.root.values/json.file.root.values_inputs.values.s" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/stubs/Stubs.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/stubs/Stubs.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/todoindex/TodoIndex.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/todoindex/TodoIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/todoindex/compositeHashId.keystream.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/todoindex/compositeHashId.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/todoindex/compositeHashId_i.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/todoindex/compositeHashId_i.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/trigram.index/Trigram.Index.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/trigram.index/Trigram.Index.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/trigram.index/fileIdToHashId_i.len" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/AndroidStudio2020.3/index/trigram.index/fileIdToHashId_i.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00116f" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001182" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001183" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00118d" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00118e" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00118f" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00119a" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00119b" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00119d" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00119e" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00119f" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011a0" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011a1" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011a2" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011a3" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011a4" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011a5" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011a6" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011a7" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011a8" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011a9" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011ab" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011ac" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011ad" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011ae" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011af" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011b0" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011b3" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011b4" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011b5" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011b6" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011b7" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011b8" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011bb" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011c4" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011d6" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011dd" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011e2" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011ec" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011f5" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011f6" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0011f8" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001205" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001206" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00121a" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00121b" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00121c" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00121d" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00121e" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00121f" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001220" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001221" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001223" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001225" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001226" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001227" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001228" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001229" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00122c" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00122d" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001230" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001231" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001232" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001233" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001234" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001237" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001238" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001239" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00123a" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00123b" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00123c" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00123d" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00123e" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_00123f" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001240" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001241" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001242" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001243" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001244" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Cache/Cache_Data/f_001245" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Code Cache/js/16c2e1598b4abf27_0" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Code Cache/js/16c2e1598b4abf27_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Sync Data/LevelDB/000018.log" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Sync Data/LevelDB/000020.ldb" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/GrShaderCache/GPUCache/f_00009b" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/GrShaderCache/GPUCache/f_00009c" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/GrShaderCache/GPUCache/f_00009d" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/GrShaderCache/GPUCache/f_00009e" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/GrShaderCache/GPUCache/f_00009f" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/1521f696d8626c8e8127c0284ab987ff1974f39a.tbres" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/1521f696d8626c8e8127c0284ab987ff1974f39a.tbres" afterDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/50ebd484e850661dbb52743c6532d732c2b0754b.tbres" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/561e00272aea38885573afaf4c61fee5a3bb07cb.tbres" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/VSApplicationInsights/vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70/20220212164113_ac8ef36ecb4442d3a3516db6d0f100f0.trn" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/Windows/INetCache/IE/CVNXKDGG/LightRainV3[1].svg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/Windows/INetCache/IE/CVNXKDGG/dnserrordiagoff[1]" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/Windows/INetCache/IE/CVNXKDGG/navcancl[1]" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Microsoft/Windows/Safety/edge/remote/synchronousLookupUris_637800808007220561" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132892095235000758.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132892096191964005.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Temp/NGLClient_CreativeCloud25.1 2022-02-10 18-58-17-952.log" beforeDir="false" />
+      <change beforePath="$USER_HOME$/AppData/Local/Temp/NGLClient_CreativeCloud25.1 2022-02-10 20-04-26-661.log" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/SecureBox" beforeDir="false" afterPath="$USER_HOME$/Desktop/SecureBox" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\dell\.android\avd\Pixel_4_XL_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SecureBox" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SecureBox" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SecureBox" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="24rWWYxJIBiZEXtJ0pXqsXh7Kno" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="DRAWABLE" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-viewC:/Users/dell/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.1/f0f93e67af3f7417bdd560d5142f6dec4fe629c3/recyclerview-1.2.1-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_RecyclerView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/dell/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.1/f0f93e67af3f7417bdd560d5142f6dec4fe629c3/recyclerview-1.2.1-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android-custom-viewC:/Users/dell/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/Users/dell/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_View_DIMENSIONS" value="1080&#10;1920" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recommended.upgrade.last.time.stamp" value="1644389827147" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\AndroidStudioProjects\SecureBox\app\src\main\res\drawable" />
+      <recent name="C:\Users\dell\AndroidStudioProjects\SecureBox\app\src\main\res\mipmap-xhdpi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\AndroidStudioProjects\SecureBox\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle --build-file" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MoGuard.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ec168a6-b1a1-4059-bd21-017de28a2f83" name="Default Changelist" comment="" />
+      <created>1644389217391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644389217391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="encyption" />
+    <option name="LAST_COMMIT_MESSAGE" value="encyption" />
+  </component>
+</project>
